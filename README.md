@@ -1,4 +1,4 @@
-# grunt-aco2less
+# grunt-aco2less (WIP)
 
 > A grunt plugin used to create .less variables out of .aco files.
 
