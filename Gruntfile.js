@@ -33,7 +33,7 @@ module.exports = function(grunt) {
         options: {
         },
         files: {
-          'tmp/test.less': ['test/fixtures/test.aco']
+          'tmp/test.less': ['test/fixtures/*.aco']
         }
       }
     }
