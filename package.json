@@ -1,0 +1,50 @@
+{
+  "name": "grunt-aco2less",
+  "description": "A grunt plugin used to create .less variables out of .aco files.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/teemualap/grunt-aco2less",
+  "author": {
+    "name": "Teemu Alapoikela",
+    "email": "teemu.alapoikela@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/teemualap/grunt-aco2less.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teemualap/grunt-aco2less/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/teemualap/grunt-aco2less/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "binary": "~0.3.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "aco",
+    "less",
+    "color",
+    "swatch",
+    "palette"
+  ]
+}
