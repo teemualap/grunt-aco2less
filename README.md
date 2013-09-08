@@ -1,6 +1,6 @@
 # grunt-aco2less
 
-> A grunt plugin used to create .less variables out of .aco files. 
+> A grunt plugin used to create .less variables out of .aco files. Currently supports rgb and hsb(->hsv) colors.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.1`
